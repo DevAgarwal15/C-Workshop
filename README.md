@@ -1,4 +1,4 @@
-# C++/C -Workshop
+**C++/C -Workshop**
 ---
 
 🌟 **Public Repository for CSI C++ Workshop** 🌟  
