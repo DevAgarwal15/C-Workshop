@@ -1,4 +1,4 @@
-# C-Workshop
+# C++/C -Workshop
 This is a public repository for CSI C++ Workshop .
 
 step 1:
@@ -30,6 +30,3 @@ git commit -m "your message"
 step 7:
 git push origin BRANCH-NAME
 
-
-
-git 
