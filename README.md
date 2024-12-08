@@ -1,7 +1,4 @@
 # C++/C -Workshop
-
-Here’s an enhanced and polished version of your steps:  
-
 ---
 
 🌟 **Public Repository for CSI C++ Workshop** 🌟  
