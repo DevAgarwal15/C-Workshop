@@ -43,3 +43,8 @@ Welcome to our open-source journey! Follow these simple steps to contribute:
 🎉 **You're all set!** Your code is now part of the workshop repo. 🚀  
 
 Happy contributing! 👩‍💻👨‍💻
+
+Name-Dev Agarwal
+Year-1st
+Course-BTech
+Roll No-BE24CS096
